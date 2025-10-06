@@ -70,7 +70,7 @@ The GUI visualizes the tag’s estimated location within a predefined map or coo
 ---
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](https://github.com/martinmutegin/indoor-positioning-system-using-ESP32-32U-and-Python-GUI-/blob/main/LICENSE.md).
 
 ---
 
